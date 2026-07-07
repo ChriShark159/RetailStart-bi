@@ -123,7 +123,7 @@ RetailStart-BI
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/ChriShark159/RetailStart-bi.git
+git clone https://github.com/ChriShark159/RetailStart-bi
 ```
 
 ## 2. Ingresar al proyecto
