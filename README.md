@@ -118,12 +118,12 @@ RetailStart-BI
 
 ---
 
-# Instalación
+# Instalación y ejecución
 
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/ChriShark159/RetailStart-bi
+git clone https://github.com/ChriShark159/RetailStart-bi.git
 ```
 
 ## 2. Ingresar al proyecto
@@ -158,16 +158,49 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 6. Ejecutar el proceso ETL
+## 6. Ejecutar la ingesta de datos
+
+Este proceso genera los archivos CSV que serán utilizados durante la carga del Data Warehouse.
+
+```bash
+python scripts/01_generar_datos.py
+```
+
+## 7. Revisar la base de datos (Opcional)
+
+El proyecto ya incluye la base de datos SQLite ubicada en:
+
+```text
+database/retail_dw.db
+```
+
+## 7.1. Crear el Data Warehouse pero si falta un dato o da error borra la base de datos
+
+Este script crea la base de datos SQLite (`retail_dw.db`) y la estructura del modelo estrella.
+
+```bash
+python scripts/02_crear_dw.py
+```
+
+
+Puede abrirse con **DB Browser for SQLite** para revisar su estructura antes o después de ejecutar el proceso ETL.
+
+## 8. Ejecutar el proceso ETL
+
+Este proceso carga las dimensiones y la tabla de hechos en el Data Warehouse y genera los archivos CSV utilizados por Power BI.
 
 ```bash
 python scripts/03_etl_dw.py
 ```
 
-Los archivos CSV para Power BI serán exportados automáticamente a la carpeta `export/`.
+Al finalizar se obtendrán:
 
----
+- Base de datos SQLite poblada (`database/retail_dw.db`).
+- Archivos CSV para Power BI en la carpeta `export/`.
 
+## 9. Abrir el proyecto de Power BI
+
+Abrir el archivo `.pbix` incluido en el proyecto y actualizar los orígenes de datos si fuese necesario para utilizar los archivos de la carpeta `export/`.
 # Resultados
 
 El proyecto genera:
