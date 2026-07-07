@@ -1,0 +1,101 @@
+﻿id_venta,fecha,id_cliente,id_producto,cantidad,precio_unitario,canal,tienda,tipo_venta
+1,2026-04-01,104,2005,2,68208.0,WEB,Concepción Centro,Online
+2,2026-04-01,119,2015,2,118716.0,WEB,Antofagasta Mall,Online
+3,2026-04-01,102,2006,1,27220.0,POS,Las Condes,Presencial
+4,2026-04-01,109,2013,2,44296.0,WEB,Santiago Centro,Online
+5,2026-04-01,113,2001,3,144911.0,POS,Las Condes,Presencial
+6,2026-04-01,108,2004,3,171163.0,WEB,Las Condes,Online
+7,2026-04-01,102,2006,2,25357.0,APP,Santiago Centro,Online
+8,2026-04-02,114,2006,1,23927.0,WEB,Concepción Centro,Online
+9,2026-04-02,108,2006,1,26453.0,APP,Providencia,Online
+10,2026-04-02,106,2015,2,114207.0,POS,Concepción Centro,Presencial
+11,2026-04-02,115,2013,2,42794.0,WEB,Las Condes,Online
+12,2026-04-02,111,2015,2,112804.0,APP,Las Condes,Online
+13,2026-04-02,107,2001,2,158209.0,APP,Las Condes,Online
+14,2026-04-02,112,2013,1,45606.0,APP,Las Condes,Online
+15,2026-04-02,104,2006,1,25111.0,POS,Antofagasta Mall,Presencial
+16,2026-04-03,117,2001,2,152886.0,WEB,Providencia,Online
+17,2026-04-03,103,2014,1,96644.0,POS,Temuco Portal,Presencial
+18,2026-04-03,101,2003,2,191546.0,WEB,Providencia,Online
+19,2026-04-03,119,2012,2,28780.0,POS,Santiago Centro,Presencial
+20,2026-04-03,113,2006,1,24593.0,WEB,Providencia,Online
+21,2026-04-03,114,2007,1,63371.0,WEB,Las Condes,Online
+22,2026-04-03,116,2014,1,88960.0,POS,Las Condes,Presencial
+23,2026-04-03,109,2010,2,88097.0,WEB,Providencia,Online
+24,2026-04-03,105,2003,1,173506.0,WEB,Providencia,Online
+25,2026-04-04,109,2001,2,146570.0,WEB,Antofagasta Mall,Online
+26,2026-04-04,103,2009,1,154119.0,WEB,Santiago Centro,Online
+27,2026-04-04,108,2005,2,70657.0,POS,Maipú,Presencial
+28,2026-04-04,110,2001,3,158085.0,POS,Temuco Portal,Presencial
+29,2026-04-04,115,2004,1,155375.0,POS,Maipú,Presencial
+30,2026-04-04,102,2005,3,69285.0,POS,Providencia,Presencial
+31,2026-04-04,113,2009,2,160126.0,POS,Providencia,Presencial
+32,2026-04-04,105,2005,3,68952.0,APP,Antofagasta Mall,Online
+33,2026-04-04,108,2001,1,159922.0,APP,Las Condes,Online
+34,2026-04-05,119,2002,1,276441.0,POS,Las Condes,Presencial
+35,2026-04-05,119,2015,1,118200.0,WEB,Las Condes,Online
+36,2026-04-05,106,2007,1,65412.0,WEB,Concepción Centro,Online
+37,2026-04-05,106,2003,1,188429.0,APP,Temuco Portal,Online
+38,2026-04-05,118,2001,1,161666.0,POS,Las Condes,Presencial
+39,2026-04-05,103,2005,1,73673.0,WEB,Las Condes,Online
+40,2026-04-05,111,2003,2,180496.0,APP,Temuco Portal,Online
+41,2026-04-05,114,2006,2,25830.0,POS,Las Condes,Presencial
+42,2026-04-05,111,2002,1,256971.0,APP,Santiago Centro,Online
+43,2026-04-05,109,2003,1,189562.0,POS,Providencia,Presencial
+44,2026-04-06,110,2011,2,35422.0,WEB,Santiago Centro,Online
+45,2026-04-06,113,2004,1,175515.0,WEB,Santiago Centro,Online
+46,2026-04-06,116,2007,1,54793.0,POS,Maipú,Presencial
+47,2026-04-06,102,2001,1,144603.0,WEB,Las Condes,Online
+48,2026-04-06,105,2014,2,97389.0,POS,Las Condes,Presencial
+49,2026-04-06,113,2008,1,93058.0,POS,Temuco Portal,Presencial
+50,2026-04-06,114,2002,3,302313.0,POS,Antofagasta Mall,Presencial
+51,2026-04-06,112,2006,1,25856.0,POS,Santiago Centro,Presencial
+52,2026-04-06,104,2013,2,44551.0,POS,Las Condes,Presencial
+53,2026-04-06,118,2001,1,144051.0,POS,Santiago Centro,Presencial
+54,2026-04-06,118,2007,1,60074.0,WEB,Santiago Centro,Online
+55,2026-04-07,111,2002,2,266711.0,APP,Concepción Centro,Online
+56,2026-04-07,118,2005,3,71097.0,POS,Las Condes,Presencial
+57,2026-04-07,114,2001,1,140259.0,POS,Santiago Centro,Presencial
+58,2026-04-07,116,2002,2,260284.0,WEB,Santiago Centro,Online
+59,2026-04-07,108,2011,1,38878.0,POS,Concepción Centro,Presencial
+60,2026-04-07,108,2004,3,182804.0,APP,Concepción Centro,Online
+61,2026-04-07,109,2010,1,84693.0,WEB,Santiago Centro,Online
+62,2026-04-07,106,2007,1,62984.0,WEB,Antofagasta Mall,Online
+63,2026-04-07,107,2006,1,27095.0,WEB,Santiago Centro,Online
+64,2026-04-07,116,2013,2,42679.0,WEB,Concepción Centro,Online
+65,2026-04-07,102,2006,3,26735.0,WEB,Las Condes,Online
+66,2026-04-08,111,2012,2,27474.0,POS,Las Condes,Presencial
+67,2026-04-08,119,2004,1,144957.0,WEB,Providencia,Online
+68,2026-04-08,106,2011,1,37902.0,APP,Concepción Centro,Online
+69,2026-04-08,106,2006,1,26210.0,WEB,Antofagasta Mall,Online
+70,2026-04-08,119,2014,2,88700.0,POS,Concepción Centro,Presencial
+71,2026-04-08,108,2001,1,158356.0,APP,Antofagasta Mall,Online
+72,2026-04-08,112,2009,1,142157.0,POS,Santiago Centro,Presencial
+73,2026-04-08,106,2010,1,91340.0,APP,Maipú,Online
+74,2026-04-08,106,2013,1,47824.0,POS,Santiago Centro,Presencial
+75,2026-04-08,109,2006,2,24780.0,WEB,Santiago Centro,Online
+76,2026-04-08,114,2004,2,153934.0,WEB,Santiago Centro,Online
+77,2026-04-09,112,2012,1,28817.0,APP,Santiago Centro,Online
+78,2026-04-09,102,2012,1,31964.0,POS,Las Condes,Presencial
+79,2026-04-09,101,2007,1,59906.0,WEB,Antofagasta Mall,Online
+80,2026-04-09,111,2014,2,93024.0,POS,Antofagasta Mall,Presencial
+81,2026-04-09,106,2003,1,182768.0,WEB,Santiago Centro,Online
+82,2026-04-09,117,2012,2,32282.0,POS,Temuco Portal,Presencial
+83,2026-04-09,112,2001,1,137609.0,WEB,Concepción Centro,Online
+84,2026-04-09,113,2013,1,44506.0,WEB,Providencia,Online
+85,2026-04-09,106,2011,1,37198.0,POS,Santiago Centro,Presencial
+86,2026-04-09,114,2006,2,23945.0,POS,Las Condes,Presencial
+87,2026-04-09,102,2011,2,37210.0,POS,Las Condes,Presencial
+88,2026-04-09,116,2011,1,33949.0,WEB,Temuco Portal,Online
+89,2026-04-10,120,2009,2,146275.0,APP,Antofagasta Mall,Online
+90,2026-04-10,104,2011,1,34883.0,APP,Temuco Portal,Online
+91,2026-04-10,108,2006,3,26499.0,POS,Las Condes,Presencial
+92,2026-04-10,114,2012,1,31637.0,WEB,Concepción Centro,Online
+93,2026-04-10,103,2002,3,313815.0,WEB,Santiago Centro,Online
+94,2026-04-10,111,2001,2,126603.0,WEB,Providencia,Online
+95,2026-04-10,115,2015,2,122471.0,POS,Santiago Centro,Presencial
+96,2026-04-10,110,2005,2,76615.0,POS,Antofagasta Mall,Presencial
+97,2026-04-10,114,2005,2,69318.0,POS,Maipú,Presencial
+98,2026-04-10,116,2005,1,70661.0,APP,Concepción Centro,Online
+99,2026-04-10,117,2001,2,136819.0,WEB,Antofagasta Mall,Online
+100,2026-04-10,109,2004,1,173123.0,APP,Providencia,Online

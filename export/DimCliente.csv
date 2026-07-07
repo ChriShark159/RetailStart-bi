@@ -1,0 +1,21 @@
+﻿cliente_key,id_cliente,nombre,apellido,email,segmento,ciudad
+1,101,Juan,Pérez,juan.perez@email.com,Premium,Valparaíso
+2,102,Ana,Gómez,ana.gomez@email.com,Regular,La Serena
+3,103,Carlos,Rojas,carlos.rojas@email.com,Premium,La Serena
+4,104,María,López,maría.lopez@email.com,Regular,Temuco
+5,105,Pedro,Díaz,pedro.diaz@email.com,Nuevo,Santiago
+6,106,Laura,Martínez,laura.martinez@email.com,Regular,Puerto Montt
+7,107,Diego,Soto,diego.soto@email.com,Premium,Valparaíso
+8,108,Sofía,Reyes,sofía.reyes@email.com,Premium,Rancagua
+9,109,Andrés,Castro,andrés.castro@email.com,Regular,Valparaíso
+10,110,Camila,Vega,camila.vega@email.com,Premium,Temuco
+11,111,Javier,Muñoz,javier.muñoz@email.com,Nuevo,La Serena
+12,112,Valentina,Silva,valentina.silva@email.com,Nuevo,Antofagasta
+13,113,Tomás,Torres,tomás.torres@email.com,Regular,Valparaíso
+14,114,Fernanda,Navarro,fernanda.navarro@email.com,Regular,Santiago
+15,115,Ignacio,Herrera,ignacio.herrera@email.com,Nuevo,Antofagasta
+16,116,Paula,Morales,paula.morales@email.com,Nuevo,Temuco
+17,117,Felipe,Fuentes,felipe.fuentes@email.com,Regular,Valparaíso
+18,118,Daniela,Vargas,daniela.vargas@email.com,Premium,Antofagasta
+19,119,Matías,Araya,matías.araya@email.com,Nuevo,Valparaíso
+20,120,Constanza,Cortés,constanza.cortes@email.com,Regular,Rancagua

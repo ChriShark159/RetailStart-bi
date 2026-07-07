@@ -1,0 +1,16 @@
+﻿id_producto,nombre_producto,categoria,proveedor,precio_base
+2001,Notebook Lenovo,Tecnología,Lenovo,140000
+2002,Smartphone Samsung,Tecnología,Samsung,280000
+2003,Tablet Huawei,Tecnología,Huawei,180000
+2004,Monitor Dell,Tecnología,Dell,160000
+2005,Audífonos Sony,Tecnología,Sony,70000
+2006,Mouse Logitech,Tecnología,Logitech,25000
+2007,Teclado Mecánico,Tecnología,Redragon,60000
+2008,Silla Oficina,Hogar,Ikea,90000
+2009,Escritorio,Hogar,Ikea,150000
+2010,Microondas,Hogar,LG,85000
+2011,Lámpara LED,Hogar,Philips,35000
+2012,Polera Hombre,Vestuario,Nike,30000
+2013,Jeans Mujer,Vestuario,Levis,45000
+2014,Chaqueta,Vestuario,Columbia,95000
+2015,Zapatillas Running,Vestuario,Adidas,120000

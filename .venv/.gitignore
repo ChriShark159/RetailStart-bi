@@ -1,0 +1,29 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Power BI cache
+
+*.pbix.autosave
+
+# OS
+
+Thumbs.db
+.DS_Store
